@@ -1,4 +1,4 @@
-ni# Hi there 👋, I'm Fahad Khan
+Hi there 👋, I'm Fahad Khan
 
 <img src="https://komarev.com/ghpvc/?username=fahad-khan-reactdev&color=blueviolet&style=flat-square" alt="Profile Views" />
 
