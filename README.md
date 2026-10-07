@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Fahad Khan
+ni# Hi there 👋, I'm Fahad Khan
 
 <img src="https://komarev.com/ghpvc/?username=fahad-khan-reactdev&color=blueviolet&style=flat-square" alt="Profile Views" />
 
@@ -23,16 +23,6 @@ A passionate **Software Developer & Technical Engineer** with a strong backgroun
 * *Currently preparing for:* **Certified Kubernetes Administrator (CKA)**
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahad-khan-reactdev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-khan-reactdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 * **LinkedIn:** [Fahad Khan](https://www.linkedin.com/in/fahad-khan-reactdev)
